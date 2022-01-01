@@ -9,6 +9,7 @@ font-family: 'Patrick Hand SC', cursive;
   --primary-color: orange;
   --dark-grey:#14213d;
   --off-color:#e5e5e5;
+  --para-color:#023047 ;
   
 }
 
@@ -66,7 +67,7 @@ hr{
 
 .list-inline{
     display: inline;
-    padding: 0.3rem 1.2rem;
+    padding: 0.3rem 0.5rem;
 }
 
 
@@ -97,17 +98,18 @@ a.links:hover{
 
 .nav-pills{
     text-align: right;
+
 }
 
 /* ------heading--------- */
 
 .heading{
-    padding: 2rem;
+    padding: auto;
     text-align: center;
 }
 
 .heading .heading-img{
-    max-width: 330px;
+    max-width: 320px;
     margin: auto;
     display: block;
 
