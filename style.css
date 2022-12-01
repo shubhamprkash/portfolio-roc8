@@ -130,7 +130,11 @@ a.links:hover{
 }
 
 .section h3{
-     text-align: center;
+    text-align: center;
+}
+
+.section2{
+    padding: 2rem;
 }
 
 .ow{
@@ -177,3 +181,7 @@ ul{
 .para {
     color: rgb(255, 14, 94);
   }
+.txt-lft{
+ text-align:start;
+    /* padding: auto; */
+}
